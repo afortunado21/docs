@@ -1,4 +1,4 @@
----
+###SMART CONTRACTS BROWSER---
 title: Quickstart for GitHub Actions
 intro: 'Add a {% data variables.product.prodname_actions %} workflow to an existing repository in 5 minutes or less.'
 allowTitleToDifferFromFilename: true
